@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "School_DATA": [
+        {
+            "SchoolID": "101",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        },
+        {
+            "SchoolID": "102",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        },
+        {
+            "SchoolID": "103",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        },
+        {
+            "SchoolID": "104",
+            "SchoolName": "Sch-1",
+            "IsDeleted": "N",
+            "SchoolType": "01"
+        }
+    ]
 }
